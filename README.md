@@ -2,13 +2,16 @@
 Here is my final submission of the hackathon NAVH 2023
 
 
-To test, open cd hackathon-project
+To test, open cd hackathon-project######
+##############
 npx hardhat node => hardhat simulation
+ #############
  npx hardhat run scripts/deploy.js = deploy contract
+#####################
 npx hardhat run scripts/2_seed_echange.js = data 
-
+######################
 npm run start = loads local host application
-
+#######################
 
 
 Push (attempted to implement) (imcompatible): https://docs.push.org/developers/developer-tooling/push-sdk/sdk-packages-details/pushprotocol-socket

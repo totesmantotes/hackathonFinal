@@ -70,6 +70,7 @@ function App() {
           {/* Markets */}
           {/* Balance */}
           {/* Order */}
+  //chat feature in the middle
         </section>
         <section className='exchange__section--right grid'>
           {/* PriceChart */}

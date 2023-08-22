@@ -14,6 +14,8 @@ npm run start = loads local host application
 #######################
 
 
+To access website: put "soshalexchange.com" in the search bar. Automatically takes you to the React App.
+
 Push (attempted to implement) (imcompatible): https://docs.push.org/developers/developer-tooling/push-sdk/sdk-packages-details/pushprotocol-socket
 Test net block explorer: https://www.covalenthq.com/docs/networks/linea-goerli-testnet/
 
